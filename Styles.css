@@ -1,0 +1,223 @@
+@import 
+url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-shadow: border-box;
+}
+
+html {
+    background-color: rgba(122, 191, 191, .5);
+}
+
+body {
+    width: 80px;
+    max-width: 1024px;
+    min-width: 850px;
+    background-color: #f2f2f2;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 22px;
+    line-height: 2em;
+    padding-left: 450px;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2, h3 {
+    font-size: 20px;
+    line-height: 2em;
+    padding-left: 350px;
+    font-family: bebas neue;
+}
+
+header {
+    height: 100px;
+}
+
+header, footer {
+    width: 100px;
+    background-color: white;
+}
+
+.tacos img {
+    width: 768px;
+    height: 900px;
+}
+
+nav {
+    background-color: white;
+    position: relative;
+    top: 0;
+    z-index: 10;
+    width: 100px;
+    text-align: center;
+}
+
+nav li {
+    display: inline-flex;
+    padding: 20px 20px;
+    padding-left: 100px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #e85428;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+input {
+    all: unset;
+    font: 16px system-ul;
+    color: #fff;
+    height: 100px;
+    width: 100px;
+    padding: 0px 10px;
+}
+
+button {
+    all: unset;
+    cursor: pointer;
+    width: 44px;
+    height: 44px;
+}
+
+svg {
+    color: #e85428;
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+}
+
+.details {
+    background-color: #0D0d0d;
+    color: #7ABFBF;
+    width: 100px;
+    padding-left: 160px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+
+.details h2{
+    text-align: center;
+}
+
+.ingredients {
+    background-color: #f2f2f2;
+    float: left;
+}
+
+.directions {
+    background-color: #f2f2f2;
+    padding-bottom: 40px;
+}
+
+main {
+    background-color: #f2f2f2;
+    margin:auto;
+    padding: auto;
+}
+
+.help {
+    margin: auto;
+    padding: auto;
+}
+
+.tacos {
+    min-height: auto;
+    min-height: auto;
+    margin: auto;
+    padding: auto;
+}
+
+.four {
+    background-color: #f2f2f2;
+}
+
+
+nav a {
+    font-family: bebas neue;
+    font-size: 20px;
+}
+
+nav span{
+    font-family: bebas neue;
+    font-size: 20px;
+}
+
+menu li {
+    font-family: bebas neue;
+    font-size: 20px;
+}
+
+#social li {
+    font-family: bebas neue;
+    font-size: 20px;
+}
+
+p {
+    font-family: montserrat;
+    font-size: 16px;
+}
+
+dd {
+    font-family: montserrat;
+    font-size: 16px;
+}
+
+li {
+    font-family: montserrat;
+    font-size: 16px;
+}
+
+nav {
+    font-family: montserrat;
+    font-size: 16px;
+}
+
+input {
+    font-family: montserrat;
+    font-size: 16px;
+}
+
+dt {
+    font-family: montserrat, bold;
+    font-size: 16px;
+}
+
+.menu {
+    background-color:#7ABFBF ;
+}
+
+.menu h2 {
+    text-align: center;
+}
+
+.hide {
+    color: #f2f2f2;
+}
+
+.main nav {
+    margin: auto;
+}
+
+footer {
+    font-family: bebas neue;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
